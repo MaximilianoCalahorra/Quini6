@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1704201340 source:d:\portafolio\c\quini6\quini6.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"quini6.h"
+
+1704201174 d:\portafolio\c\quini6\quini6.h
+
+1704201236 source:d:\portafolio\c\quini6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"quini6.h"
+
